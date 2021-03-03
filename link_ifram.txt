@@ -1,0 +1,6 @@
+F13=Waive
+http://192.168.12.197/WaiveSystem/Waive/WorkProcess/WaiveRequest/MainRequest/MainRequestList_View.aspx?username=ADTEST1&password=NsBu1vcw8ZFISPRUaAT6lNXNc2ltPOvTYCTcbE5VP%2fM%3d&customer=2100900012850&contract=10399595
+
+
+F14=>ChangeTel=>Tab Request Change Customer Data
+http://192.168.115.64/ChangeCustomerData_TST/ManageData/WorkProcess/Request_Change/Request_Change.aspx?UserName=ADTEST1&Password=SB9IN3PuRApeae6QzuMZrmlqQyZLzQnR8arnAU%2bgLpg%3d&customer=3331000532447&PGM=callscreen
